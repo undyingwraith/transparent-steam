@@ -1,0 +1,65 @@
+:root {
+	--transparent: rgba(0, 0, 0, 0.3);
+	background-color: transparent;
+}
+
+body {
+	background: rgba(0, 0, 0, 0.3);
+}
+
+/* TITLEBAR */
+body ._1ENHEsrSLcTRtPQFl1F-wL._1DvwQt0JN-Ogp_4tVZdkzX,
+body .RGNMWtyj73_-WdhflrmuY ._2CmrnGY-Amtd83ScJkFvx2,
+body ._3Z7VQ1IMk4E3HsHvrkLNgo,
+body ._3vCzSrrXZzZjVJFZNg9SGu {
+	background: transparent;
+}
+
+/* GAMELIST */
+body ._3x1HklzyDs4TEjACrRO2tB {
+	background: transparent;
+}
+
+body ._2sYIghGVXJr6tsQVvcryy8 {
+	background: linear-gradient(to right, rgba(41, 47, 59, 0.8) 40%, rgba(62, 78, 105, 0) 100%);
+}
+
+body ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ,
+body ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ {
+	background-color: rgba(62, 78, 105, 0.5)
+}
+
+body ._2-O4ZG0KrnSrzISHBKctFQ:hover,
+._2-O4ZG0KrnSrzISHBKctFQ._3cMVyOc-9F9Jvp3uKF7_xj {
+	background-color: rgba(50, 58, 75, 0.5);
+}
+
+/* LIBRARY HOME */
+body ._2Dd4T78PcCTUVgOtDGFY5j,
+body ._2gSXCB6PbOlMxslr8hm6dm,
+body ._2CmrnGY-Amtd83ScJkFvx2,
+body ._276E6ijBpjMA2_iTxNhhjc,
+body ._17uEBe5Ri8TMsnfELvs8-N,
+body ._3Sb2o_mQ30IDRh0C72QUUu {
+	background: transparent;
+}
+
+/* GAME PAGE */
+body ._3FmxxjyWNHU1PrBGnBe6tm._2l416KfEtI4CL0mCUEmOBw,
+body ._2l416KfEtI4CL0mCUEmOBw {
+	background: transparent;
+}
+
+body .HNbe3eZf6H7dtJ042x1vM.HSQWw9HUAP6jtA2OZjS-u._3_IUVzR9tpG_JKEjhwXEAb {
+	display: none;
+}
+
+/* DOWNLOADS */
+body ._1bq4x9pa4-9RLY-dXWUZTp {
+	background: transparent;
+}
+
+/* FOOTER */
+._3vCzSrrXZzZjVJFZNg9SGu {
+	background-color: transparent;
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Transparent Steam",
+	"author": "UndyingWraith",
+	"description": "A theme to make steam transparent",
+	"Steam-WebKit": "webkit.css",
+	"UseDefaultPatches": true,
+	"Conditions": {
+		"Hide window buttons": {
+			"default": "yes",
+			"description": "Hides minimize, maximise, and close buttons",
+			"tab": "General",
+			"values": {
+				"no": {},
+				"yes": {
+					"TargetCss": {
+						"affects": [
+							".*"
+						],
+						"src": "hide-window-buttons.css"
+					}
+				}
+			}
+		}
+	}
+}

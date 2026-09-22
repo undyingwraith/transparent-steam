@@ -1,0 +1,8 @@
+:root {
+	--transparent: rgba(0, 0, 0, 0.3);
+}
+
+div.responsive_header,
+#spotlight_carousel {
+	background-color: var(--transparent);
+}
