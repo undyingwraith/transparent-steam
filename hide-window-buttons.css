@@ -1,3 +1,9 @@
+/* MAIN WINDOW */
 .qP17eBPXkfezFfexZ4hC3 {
+	display: none;
+}
+
+/* FRIENDS LIST & CHAT */
+.title-area .title-bar-actions.window-controls {
 	display: none;
 }

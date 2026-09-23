@@ -1,0 +1,44 @@
+/* FRIENDS LIST */
+html.client_chat_frame body,
+html.web_chat_frame body {
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.friendListHeaderContainer,
+.friendlistListContainer,
+.chatRoomListContainer {
+	background: transparent;
+}
+
+.activeTab,
+.friendsListSectionTitle {
+	background-color: rgba(67, 73, 83, 0.5);
+}
+
+.friendListFooter {
+	display: none;
+}
+
+.friendsListSectionTitle.chatSectionTitle:hover {
+	background-color: rgba(74, 81, 92, 0.5);
+}
+
+/* CHAT */
+.titleBarContainer.ChatTabs,
+.chatDialogs,
+.chatWindow,
+.chatWindow .chatEntry {
+	background: transparent;
+}
+
+._2XZq-_f6npaQdAgeRzKIkz.Yd-DsWkYiFiYwpci--Yk_ {
+	background-color: rgba(58, 62, 70, 0.5);
+}
+
+.chatWindow .chatHeader {
+	background: rgba(58, 62, 70, 0.5);
+}
+
+._3Ule3rolhZJiBN4yNNtk1s {
+	background-color: rgba(27, 28, 32, 0.5);
+}
