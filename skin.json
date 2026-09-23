@@ -2,6 +2,17 @@
 	"name": "Transparent",
 	"author": "UndyingWraith",
 	"description": "A theme to make steam transparent",
+	"version": "0.1.0",
+	"header_image": "https://github.com/undyingwraith/transparent-steam/blob/master/img/header_image.png",
+	"splash_image": "https://github.com/undyingwraith/transparent-steam/blob/master/img/header_image.png",
+	"tags": [
+		"Transparent",
+		"Dark"
+	],
+	"github": {
+		"owner": "undyingwraith",
+		"repo_name": "transparent-steam"
+	},
 	"Steam-WebKit": "webkit.css",
 	"UseDefaultPatches": true,
 	"Conditions": {
