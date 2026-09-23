@@ -16,12 +16,13 @@ body ._3vCzSrrXZzZjVJFZNg9SGu {
 }
 
 /* GAMELIST */
-body ._3x1HklzyDs4TEjACrRO2tB {
+body ._3x1HklzyDs4TEjACrRO2tB,
+body ._2TKEazUUS3TlniZfpc8OOe {
 	background: transparent;
 }
 
 body ._2sYIghGVXJr6tsQVvcryy8 {
-	background: linear-gradient(to right, rgba(41, 47, 59, 0.8) 40%, rgba(62, 78, 105, 0) 100%);
+	background: linear-gradient(to right, rgba(41, 47, 59, 0.5) 40%, rgba(62, 78, 105, 0) 100%);
 }
 
 body ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ,
@@ -32,6 +33,18 @@ body ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ {
 body ._2-O4ZG0KrnSrzISHBKctFQ:hover,
 ._2-O4ZG0KrnSrzISHBKctFQ._3cMVyOc-9F9Jvp3uKF7_xj {
 	background-color: rgba(50, 58, 75, 0.5);
+}
+
+body ._2sYIghGVXJr6tsQVvcryy8:hover {
+	background-color: rgba(62, 78, 105, 0.5);
+}
+
+body ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ:hover,
+body ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ._3cMVyOc-9F9Jvp3uKF7_xj,
+body ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ :hover,
+body ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ:hover,
+body ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ._3cMVyOc-9F9Jvp3uKF7_xj {
+	background: rgba(88, 111, 150, 0.5);
 }
 
 /* LIBRARY HOME */
@@ -52,6 +65,10 @@ body ._2l416KfEtI4CL0mCUEmOBw {
 
 body .HNbe3eZf6H7dtJ042x1vM.HSQWw9HUAP6jtA2OZjS-u._3_IUVzR9tpG_JKEjhwXEAb {
 	display: none;
+}
+
+body ._2OOzYVWIHaKXm6_7sscT9i .Jbe--NUNw7sxbxGsMSjVa {
+	backdrop-filter: none;
 }
 
 /* DOWNLOADS */
