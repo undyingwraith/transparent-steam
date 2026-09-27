@@ -36,7 +36,6 @@ body ._2sYIghGVXJr6tsQVvcryy8:hover {
 
 body ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ:hover,
 body ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ._3cMVyOc-9F9Jvp3uKF7_xj,
-body ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ :hover,
 body ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ:hover,
 body ._1UBpAXP408Ez_L_mXhW5Q9 ._2-O4ZG0KrnSrzISHBKctFQ._3cMVyOc-9F9Jvp3uKF7_xj {
 	background: rgba(88, 111, 150, 0.5);
@@ -73,8 +72,14 @@ body ._2OOzYVWIHaKXm6_7sscT9i .Jbe--NUNw7sxbxGsMSjVa {
 }
 
 /* DOWNLOADS */
-body ._1bq4x9pa4-9RLY-dXWUZTp {
+body ._1bq4x9pa4-9RLY-dXWUZTp,
+body ._3Mbhnlk1Go2j8yCdjthzc7.IbePLaw-vSvhG1GTenYFg._2KB3yVOsiRCK9qK6mwKl9c,
+body ._1VNuYHM6BPBOJspC6zPf5r.IbePLaw-vSvhG1GTenYFg {
 	background: transparent;
+}
+
+body ._1VNuYHM6BPBOJspC6zPf5r:hover {
+	background-color: rgba(61, 68, 80, 0.5);
 }
 
 /* FOOTER */
